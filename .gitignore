@@ -74,7 +74,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # IPython
 profile_default/
@@ -128,10 +127,12 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/inferencia_df_transformado.csv
 
 # Model files
 models/*
 !models/.gitkeep
+!models/modelo_final.joblib
 
 # IDE
 .vscode/
