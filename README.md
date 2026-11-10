@@ -5,7 +5,6 @@
 **Para abrir la app** hay que activar el entorno de conda `forecastingventas` y ejecutar `streamlit run app/streamlit_app.py` en la consola, desde la carpeta del proyecto (ver [Cómo abrir la app](#cómo-abrir-la-app)).
 
 ![Captura de la app](docs/captura_app.png)
-<!-- Haz una captura de la app y guárdala en docs/captura_app.png -->
 
 ---
 
@@ -139,4 +138,4 @@ La app no está publicada en ningún servidor: se ejecuta en local con Streamlit
 
 **Pedro Antonio Laria**
 <!-- Añade tu LinkedIn -->
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · [GitHub](https://github.com/PedroALOhub)
+[GitHub](https://github.com/PedroALOhub)
