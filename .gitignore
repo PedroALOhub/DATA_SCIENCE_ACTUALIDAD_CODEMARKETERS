@@ -123,8 +123,6 @@ dmypy.json
 .pyre/
 
 # Data files
-data/raw/*
-!data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/inferencia_df_transformado.csv
